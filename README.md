@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeDecree
+- 👋 Hi, I’m @vinay-kalura
 - 👀 I’m interested in python projects and other programming stuff.
 - 🌱 I’m currently practicing competitive programming.
 - 💞️ I’m looking to collaborate with like minded people. 
